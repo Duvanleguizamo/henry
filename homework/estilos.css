@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight:bold;
+    color:#2980b9;
+
+
+}
+body {
+    font-size: 25px;
+    background-image:url("https://st3.depositphotos.com/8392720/12812/v/950/depositphotos_128129612-stock-illustration-hand-drawn-vector-seamless-fast.jpg");
+    text-align:center;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+    margin-right:auto;
+    margin-left:auto;
+    width:500px;
+    height:600px;
+    background:#2980b9;
+    padding:20px;
+    border: 20px solid #999;
+}
+#spanId{
+    margin:50px;
+}
